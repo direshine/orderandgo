@@ -143,3 +143,21 @@ form .form-row .textarea{
     width: 40%!important;
   }
 }
+
+.backbutton {
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin: 20px;
+background-color: #fff;
+padding:10px;
+  font-size: 17px;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  cursor: pointer;
+  z-index: 2;
+  border: none;
+  border-radius: 5px;
+  align-items: center;
+}
